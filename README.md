@@ -1,8 +1,7 @@
 # RegistroDiClasse
 1mo laboratorio classe 4ta informatica
 
-
-Vorrei precisare alcuni punti che sono importanti per me:
+è la fine
 L'obiettivo di questo laboratorio e' seguire il ciclo di vita dello sviluppo di un SW. In particolare:
 
 1. Comprensione e descrizione del problema che il CLIENTE si propone di affrontare con la richiesta di SW. Alcuni clienti arrivano con una intenzione che molto spesso non e' approfondita in modo sufficiente. Mediante una intervista (meglio se scritta) al CLIENTE, lo sviluppatore, ottiene tutte le informazioni mancanti per definire il problema in modo completo.
