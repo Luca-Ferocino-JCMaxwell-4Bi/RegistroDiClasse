@@ -21,10 +21,7 @@ Questi primi 4 punti trovano spazio nella [Wiki](https://github.com/Prof-Matteo-
 5 Manuale D'uso e installazione (usare per questa sezione il README file su GitHub)
 
 Questo lavoro di documentazione viene fatta PRIMA di iniziare a scrivere il CODICE.
-In realta' ci sono altre cose che dovrebbero essere analizzate e documentate, ma per non mettere troppa carne al fuoco vorrei che il gruppo documentasse il proprio progetto seguendo questa linea guida.
-
-Un altra cosa che vi chiederei  e' di usare la possibilita' di introdurre commenti nel codice per una documentazione del codice stesso.
-
+cioao
 
 ## Descrizione programma
 
