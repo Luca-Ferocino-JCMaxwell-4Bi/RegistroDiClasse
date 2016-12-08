@@ -2,6 +2,9 @@
 1mo laboratorio classe 4ta informatica
 
 Prova
+aggiunta
+
+
 
 Vorrei precisare alcuni punti che sono importanti per me:
 L'obiettivo di questo laboratorio e' seguire il ciclo di vita dello sviluppo di un SW. In particolare:
